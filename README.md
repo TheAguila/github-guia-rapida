@@ -188,3 +188,5 @@ Gracias por mirar y por Aprender!
 
 
 añidiendo cosas en la razma de dosarollo
+
+esto puede romper nuestro proyecto 
