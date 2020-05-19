@@ -185,3 +185,6 @@ Esto creará una carpeta con el nombre del proyecto y dentro ya tendremos un pro
 Espero que esta guía les haya servido!
 
 Gracias por mirar y por Aprender!
+
+
+añidiendo cosas en la razma de dosarollo
