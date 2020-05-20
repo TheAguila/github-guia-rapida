@@ -187,6 +187,6 @@ Espero que esta guía les haya servido!
 Gracias por mirar y por Aprender!
 
 
-añidiendo cosas en la razma de dosarollo
+espero que esta guia les haya servido!
+Gracias por mirar y por Aprender:
 
-esto puede romper nuestro proyecto 
